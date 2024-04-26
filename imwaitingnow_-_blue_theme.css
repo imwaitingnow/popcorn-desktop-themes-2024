@@ -2232,7 +2232,7 @@ body,
   transition: color 0.5s;
 }
 .init-geek-line .heart {
-  color: #e74c3c;
+  color: #0000FF;
 }
 .text-begin {
   text-align: center;
@@ -2538,16 +2538,16 @@ body,
   border-radius: 4px;
   -webkit-user-select: none;
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d43f3a;
+  background-color: #0000FF;
+  border-color: #0000FF;
   outline: none;
   margin: 10px;
   text-decoration: none;
 }
 #disclaimer-container .disclaimer .disclaimer-state .disclaimer-content .btn-close:hover {
   color: #fff;
-  background-color: #d2322d;
-  border-color: #ac2925;
+  background-color: #0000FF;
+  border-color: #0000FF;
 }
 #disclaimer-container .disclaimer .disclaimer-state .disclaimer-content .btn-close:active {
   -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.6);
@@ -2850,7 +2850,7 @@ body,
   background-repeat: no-repeat;
 }
 #header .btn-set.darwin .btn-os.os-close {
-  background-color: #fc5753;
+  background-color: #0000FF;
 }
 #header .btn-set.darwin .btn-os.os-max {
   background-color: #33c748;
@@ -2982,7 +2982,7 @@ body,
 }
 .window-close:hover {
   opacity: 1;
-  background-color: rgba(232,17,35,0.9) !important;
+  background-color: #0000FF !important;
 }
 .window-minimize,
 .window-maximize {
@@ -3139,10 +3139,10 @@ body,
   cursor: pointer;
 }
 .filter-bar i.active.favorites {
-  color: #df2d37;
+  color: #0000FF;
 }
 .filter-bar i.active.favorites:hover {
-  color: #bc1d26;
+  color: ;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
@@ -3536,7 +3536,7 @@ body,
   opacity: 0.3;
 }
 .item .cover .cover-overlay .actions-favorites.selected {
-  color: #df2d37;
+  color: ;
   opacity: 1;
 }
 .item .cover .cover-overlay .actions-favorites:hover {
@@ -4086,7 +4086,7 @@ body,
   border-radius: 50%;
 }
 .movie-detail .content-box .meta-container .metadatas .status-indicators .health-icon.Bad {
-  color: #d53f3f;
+  color: #0000FF;
 }
 .movie-detail .content-box .meta-container .metadatas .status-indicators .health-icon.Medium {
   color: #ece523;
@@ -4315,7 +4315,7 @@ body,
   font-weight: 900;
   position: absolute;
   font-size: 18px;
-  color: #df2d37;
+  color: #0000FF;
   left: 0;
   opacity: 1;
   -webkit-transition: opacity 0.5s;
@@ -4980,7 +4980,7 @@ body,
   font-weight: 900;
   position: absolute;
   font-size: 18px;
-  color: #df2d37;
+  color: #0000FF;
   top: 0;
   left: 0;
   bottom: 0;
@@ -5299,7 +5299,7 @@ body,
   transition: all 0.3s ease-in;
 }
 .show-detail-container .show-details .sd-overview .sdo-infos .sdoi-links .health-icon.Bad {
-  color: #d53f3f;
+  color: #0000FF;
 }
 .show-detail-container .show-details .sd-overview .sdo-infos .sdoi-links .health-icon.Medium {
   color: #ece523;
@@ -8382,7 +8382,7 @@ body,
 }
 .seedbox-container .content .seedbox-details .seedbox-types ul li.active,
 .seedbox-container .content .seedbox-details .seedbox-torrents ul li.active {
-  background-color: #d00000;
+  background-color: #0000FF;
   position: relative;
 }
 .seedbox-container .content .seedbox-details .seedbox-types ul li.active:after,
@@ -8393,7 +8393,7 @@ body,
   right: -12px;
   width: 0;
   height: 0;
-  border-color: #070707 #070707 #070707 #d00000;
+  border-color: #070707 #070707 #070707 #0000FF;
   border-style: solid;
   border-width: 16px 6px 17px 6px;
 }
@@ -8478,7 +8478,7 @@ body,
   color: #fff;
 }
 .seedbox-container .content .seedbox-details .seedbox-torrents .seedbox-torrent-list ul li.error {
-  background: #f15153;
+  background: #0000FF;
 }
 .seedbox-container .content .seedbox-details .seedbox-torrents .notorrents-info {
   display: block;
@@ -8565,7 +8565,7 @@ body,
   transition: all 0.3s ease-in;
 }
 .seedbox-container .content .seedbox-details .seedbox-overview .seedbox-infos .seedbox-infos-links .health-icon.Bad {
-  color: #d53f3f;
+  color: ;
 }
 .seedbox-container .content .seedbox-details .seedbox-overview .seedbox-infos .seedbox-infos-links .health-icon.Medium {
   color: #ece523;
@@ -8854,9 +8854,9 @@ body,
   border-radius: 0;
   height: 8px;
   width: 0%;
-  background-color: #fb6340;
-  background-image: -webkit-linear-gradient(top, #fb6340 100%, #fb6340 100%);
-  background-image: linear-gradient(to bottom, #fb6340 100%, #fb6340 100%);
+  background-color: #0000FF;
+  background-image: -webkit-linear-gradient(top, #0000FF 100%, #0000FF 100%);
+  background-image: linear-gradient(to bottom, #0000FF 100%, #0000FF 100%);
 }
 .seedbox-container .content .progress-bar.done {
   background-color: #27ae60;
