@@ -4086,7 +4086,7 @@ body,
   border-radius: 50%;
 }
 .movie-detail .content-box .meta-container .metadatas .status-indicators .health-icon.Bad {
-  color: #0000FF;
+  color: #d53f3f;
 }
 .movie-detail .content-box .meta-container .metadatas .status-indicators .health-icon.Medium {
   color: #ece523;
